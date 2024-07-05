@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7edc3795287e66f1",
+        "id": "f584c2581f397fa0",
         "type": "tabs",
         "children": [
           {
-            "id": "6888e5e35a752912",
+            "id": "38b624d4c548a30a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6888e5e35a752912",
+  "active": "38b624d4c548a30a",
   "lastOpenFiles": [
     "README.md",
+    "Untitled.canvas",
+    "blog/articles.md",
     "Blog.md"
   ]
 }

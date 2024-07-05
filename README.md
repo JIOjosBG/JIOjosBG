@@ -1,4 +1,3 @@
-[bep]: https://github.com/bep
 
 # Da website
 
@@ -8,5 +7,4 @@
 
 
 ### [Blog (coming soon)](./blog/articles.md)
-
 
