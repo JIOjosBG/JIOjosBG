@@ -14,6 +14,6 @@
 
 ### Books&articles i enjoyed (coming soon)
 
-### Blog (coming soon)
+### [Blog (coming soon)](Blog.md)
 
 </details>
