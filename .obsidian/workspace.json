@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f584c2581f397fa0",
+        "id": "311b734eab0dfe38",
         "type": "tabs",
         "children": [
           {
-            "id": "38b624d4c548a30a",
+            "id": "f4224d43e68b52b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/content.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/content.md"
+              }
             }
           }
         ]
@@ -138,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38b624d4c548a30a",
+  "active": "f4224d43e68b52b4",
   "lastOpenFiles": [
     "README.md",
+    "content/content.md",
+    "content",
     "Untitled.canvas",
     "blog/articles.md",
     "Blog.md"
