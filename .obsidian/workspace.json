@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/content.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/content.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/content.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/content.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "f4224d43e68b52b4",
   "lastOpenFiles": [
+    "content.md",
+    "articles.md",
     "README.md",
-    "content/content.md",
     "content",
     "Untitled.canvas",
-    "blog/articles.md",
     "Blog.md"
   ]
 }
