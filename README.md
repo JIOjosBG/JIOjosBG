@@ -12,4 +12,4 @@
 
 ## [Blog (coming soon)](articles.md)
 
-## [Math notes (BG)](Math.md)
+## [Math notes (BG)](math/Math.md)

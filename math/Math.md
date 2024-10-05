@@ -1,4 +1,4 @@
 ## Algebra
-## [DSTR](Dstr.md)
-## [DIS](Dis.md)
+## [DSTR](./dstr/Dstr.md)
+## [DIS](./dis/Dis.md)
 ## UP

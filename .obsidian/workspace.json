@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/dis/Dis.md",
+                "file": "math/Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/dis/Dis.md",
+                "file": "math/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/dis/Dis.md",
+                "file": "math/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/dis/Dis.md"
+                "file": "math/Math.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "76d5601b3f71b52d",
   "lastOpenFiles": [
-    "math/dstr/Dstr.md",
     "math/dis/Dis.md",
-    "math/dis",
     "math/Math.md",
     "README.md",
+    "math/dstr/Dstr.md",
+    "math/dis",
     "www.ambire.com.md",
     "math.md",
     "math",
