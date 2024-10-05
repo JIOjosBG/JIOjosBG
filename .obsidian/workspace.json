@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ff12f873466fe65a",
+        "id": "80fac4a13d12adaa",
         "type": "tabs",
         "children": [
           {
-            "id": "9116db291e541d72",
+            "id": "76d5601b3f71b52d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/dis/Dis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/dis/Dis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/dis/Dis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/dis/Dis.md"
+              }
             }
           }
         ]
@@ -138,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9116db291e541d72",
+  "active": "76d5601b3f71b52d",
   "lastOpenFiles": [
-    "content.md",
+    "math/dstr/Dstr.md",
+    "math/dis/Dis.md",
+    "math/dis",
+    "math/Math.md",
     "README.md",
+    "www.ambire.com.md",
+    "math.md",
+    "math",
+    "math/dstr",
+    "content.md",
     "articles.md",
     "content",
     "Untitled.canvas",
