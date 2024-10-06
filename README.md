@@ -7,6 +7,7 @@
 
 ## Currently:
 ### I am part of the [Ambire Wallet](https://www.ambire.com) team
+### Working on EVM light client in rust
 
 ## [Content and recources i really enjoyed](content.md)
 
