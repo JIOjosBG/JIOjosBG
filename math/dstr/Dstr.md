@@ -30,7 +30,7 @@
 - $R$ - реални числа
 
 Примери
-- $\neg (p \&\& q) = \neg p \cup \neg q$
+- $$\neg (p \&\& q) = \neg p \cup \neg q$$
  - $\neg(p \cup q) = \neg p \& \neg q$
  - $\neg(p => q) =  p \& \neg q$
  
