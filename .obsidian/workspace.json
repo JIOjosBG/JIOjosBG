@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "02c16ca552f1c7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/dis/set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76d5601b3f71b52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content.md",
+                "file": "math/dis/set.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content.md",
+                "file": "math/dis/set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content.md",
+                "file": "math/dis/set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content.md"
+                "file": "math/dis/set.md"
               }
             }
           }
@@ -146,18 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76d5601b3f71b52d",
+  "active": "02c16ca552f1c7be",
   "lastOpenFiles": [
-    "README.md",
-    "math/dstr/Dstr.md",
     "math/dis/Dis.md",
+    "math/dis/set.md",
+    "math/dstr/Dstr.md",
     "math/Math.md",
+    "README.md",
+    "content.md",
     "math/dis",
     "www.ambire.com.md",
     "math.md",
     "math",
     "math/dstr",
-    "content.md",
     "articles.md",
     "content",
     "Untitled.canvas",
