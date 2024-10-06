@@ -16,4 +16,25 @@
 	- $B-A=B\backslash A = \{4,5\}$
 Свойства и доказателства
 - $(A-B)\cap(A-C)=A-(B\cup C)$
-...
+	- лявата страна е еквивалентна на
+	- $(x \in A \cap x \notin B) \cap (x \in A \cap x \notin C)$
+	- в този случай можем да махнем скобите
+	- $x \in A \cap x \notin B \cap x \in A \cap x \notin C$
+	- премахваме едното повторение с A и слагаме скоби
+	- $x \in A \cap (x \notin B \cap x \notin C)$
+	- щом x не в B и x не е в C, можем да кажем, че не е в тяхното обединение
+	- $x \in A \cap x \notin (B \cup C)$
+	- което е еквивалентно на
+	- $A - (B \cup C)$
+- $(A - B) \cup (A-C) = A - (B \cap C)$
+	- лявата страна е еквивалентна на
+	- $(x \in A \cap x \notin B) \cup (x \in A \cap x \notin C)$
+	- за да бъде вярно задължително трябва $x \in A$ да е вярно
+	- за да бъде условието вярно трябва поне едно от двете $x \notin B$ или $x \notin C$ да е вярно
+	- изваждаме $x \in A$ пред скобите
+	- $x \in A \cap (x \notin B \cup x \notin C)$
+	- дясната част $(x \notin B \cup x \notin C)$ е вярна само когато не е в двете едновременно, съответно може да се замени с $x \notin (B \cap C)$
+	- $x \in A \cap x \notin (B \cap C)$
+	- което е еквивалентно на
+	  $A - (B \cap C)$
+	  
