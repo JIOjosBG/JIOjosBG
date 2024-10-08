@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80fac4a13d12adaa",
+        "id": "05e985ab88d92e39",
         "type": "tabs",
         "children": [
           {
-            "id": "02c16ca552f1c7be",
+            "id": "642c0656c3ecafdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/dis/set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76d5601b3f71b52d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/dis/set.md",
+                "file": "math/dis/series.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/dis/set.md",
+                "file": "math/dis/series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/dis/set.md",
+                "file": "math/dis/series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/dis/set.md"
+                "file": "math/dis/series.md"
               }
             }
           }
@@ -158,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02c16ca552f1c7be",
+  "active": "642c0656c3ecafdd",
   "lastOpenFiles": [
     "math/dis/Dis.md",
+    "math/dis/series.md",
+    "math/dis/binomialTheorem.md",
+    "ASD.md",
+    "ДОКАЗАТЕЛСТВО1.md",
     "math/dis/set.md",
+    "доказателство.md",
     "math/dstr/Dstr.md",
     "math/Math.md",
     "README.md",
