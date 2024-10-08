@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05e985ab88d92e39",
+        "id": "9a1806adbe092334",
         "type": "tabs",
         "children": [
           {
-            "id": "642c0656c3ecafdd",
+            "id": "1c4ca38f4ba508d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/dis/binomialTheorem.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/dis/binomialTheorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/dis/binomialTheorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/dis/binomialTheorem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "642c0656c3ecafdd",
+  "active": "1c4ca38f4ba508d2",
   "lastOpenFiles": [
+    "math/dis/binomialTheorem.md",
     "math/dis/set.md",
     "math/dis/Dis.md",
-    "math/dis/binomialTheorem.md",
     "math/dis/series.md",
     "ASD.md",
     "ДОКАЗАТЕЛСТВО1.md",
