@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/dis/series.md",
+                "file": "math/dis/binomialTheorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/dis/series.md",
+                "file": "math/dis/binomialTheorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/dis/series.md",
+                "file": "math/dis/binomialTheorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/dis/series.md"
+                "file": "math/dis/binomialTheorem.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "642c0656c3ecafdd",
   "lastOpenFiles": [
+    "math/dis/set.md",
     "math/dis/Dis.md",
-    "math/dis/series.md",
     "math/dis/binomialTheorem.md",
+    "math/dis/series.md",
     "ASD.md",
     "ДОКАЗАТЕЛСТВО1.md",
-    "math/dis/set.md",
     "доказателство.md",
     "math/dstr/Dstr.md",
     "math/Math.md",
