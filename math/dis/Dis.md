@@ -5,3 +5,5 @@
 [Нютонов бином и доказателство](./binomialTheorem.md)
 
 [Редици](./series.md)
+
+[Принципи за непрекъснатост](./continuitityPrinciples.md)

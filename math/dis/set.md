@@ -16,6 +16,7 @@
 	- $B = \{3,4,5\}$
 	- $A-B=A \backslash B = \{1,2\}$
 	- $B-A=B\backslash A = \{4,5\}$
+	- $A\backslash B=C <=> (\forall x \in C <=> x\in A \cap x\notin B)$
 Свойства и доказателства
 - $(A-B)\cap(A-C)=A-(B\cup C)$
 	- лявата страна е еквивалентна на

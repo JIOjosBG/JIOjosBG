@@ -11,8 +11,12 @@
             "id": "1c4ca38f4ba508d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/dis/continuitityPrinciples.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/dis/continuitityPrinciples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/dis/continuitityPrinciples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/dis/continuitityPrinciples.md"
+              }
             }
           }
         ]
@@ -140,15 +148,19 @@
   },
   "active": "1c4ca38f4ba508d2",
   "lastOpenFiles": [
-    "math/dis/binomialTheorem.md",
-    "math/dis/set.md",
+    "math/algebra/complexNumbers.md",
+    "math/dis/continuitityPrinciples.md",
     "math/dis/Dis.md",
     "math/dis/series.md",
+    "math/dis/set.md",
+    "math/dis/binomialTheorem.md",
+    "math/algebra/Algebra.md",
+    "math/Math.md",
+    "math/algebra",
+    "math/dstr/Dstr.md",
     "ASD.md",
     "ДОКАЗАТЕЛСТВО1.md",
     "доказателство.md",
-    "math/dstr/Dstr.md",
-    "math/Math.md",
     "README.md",
     "content.md",
     "math/dis",
