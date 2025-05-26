@@ -17,4 +17,4 @@
 - 
 ## Articles
 - [50% of What You Learn at Age 20 May be Outdated by 30. Here’s a Plan to Stay Ahead.](https://medium.com/educreation/50-of-what-you-learn-at-age-20-may-be-outdated-by-30-heres-a-plan-to-stay-ahead-c44ecd001add)
-- 
+- [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
