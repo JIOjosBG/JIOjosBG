@@ -12,5 +12,3 @@
 ## [Content and recources i really enjoyed](content.md)
 
 ## [Blog (coming soon)](articles.md)
-
-## [Math notes (BG)](math/Math.md)
