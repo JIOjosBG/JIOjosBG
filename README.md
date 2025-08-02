@@ -10,5 +10,3 @@
 ### Working on EVM light client in rust
 
 ## [Content and recources i really enjoyed](content.md)
-
-## [Blog (coming soon)](articles.md)
